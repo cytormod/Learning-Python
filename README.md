@@ -9,5 +9,6 @@ Treasure Island
 4) Learned the Concept of Import, List, Nested List
   Created small games: Just to clarify the Concept in-deep:
   Flip the Coin, Who is going to pay the Bill, Treasure Map Challenge, Rock Paper Scissors
+5) Loops: Awesome Loops: Challenge: Average Height, Highest Score, sum of all even NUmbers, FizzBuzz Game, Password Generator
 
 THANKS TO DR.ANGELA YU. She created the 100 days Challenge and I hope I will see theh positive result soon:)
